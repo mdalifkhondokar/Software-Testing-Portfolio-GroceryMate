@@ -41,6 +41,8 @@ The webshop has the following basic functionalities:
 **Vague Requirement**:
 
 - Alcoholic products require age verification. A modal should appear when navigating to the alcoholic products category asking if the user is 18+. Users must input their age before accessing the alcoholic products.
+
+
 **Questions**:
 
 1. Does the age verification modal appear every time a user navigates to alcoholic products, or only once per session?

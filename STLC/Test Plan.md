@@ -6,22 +6,15 @@
 
 The primary objective of GroceryMate is to simplify grocery shopping and inventory management for users by allowing them to create, organize and manage grocery lists. It aims to provide a clean, intuitive user interface for easy list creation and maintenance.
 
-### **User Base** ----> update korte hobe 
+### **User Base** 
 
 The product is targeted at a wide range of users, including:
 
-- Individuals and families managing household groceries
-- Students or professionals living independently
-- Users aged 18+ for some product (Alcohol products)
-- Casual users who prefer simple, no-login grocery list tools
-- Users accessing the tool on both desktop and mobile browsers
-- Budget-Conscious Shoppers: Individuals aiming to find quality products at optimal prices.
-- Health-Conscious Consumers: Users interested in selecting fresh and healthy grocery options.
-- Tech-Savvy Individuals: Those comfortable using web-based applications for daily tasks.
-- Mobile Users: Shoppers who prefer managing their grocery lists on-the-go via smartphones or tablets.
-- Desktop Users: Individuals who plan their shopping from home or work computers.
-
-There is no explicit user registration, so the application is intended for quick and accessible usage without user accounts.
+- Regular online shoppers
+- Age 18+ users (especially for alcohol category)
+- Budget-conscious users comparing prices and shipping costs
+- Tech-savvy and mobile-first users
+- Logged-in users for personalized features (favorites, reviews, etc.)
 
 ### **Hardware and Software Specifications**
 

@@ -18,18 +18,18 @@ The webshop has the following basic functionalities:
 - Users should be able to rate products with a 5-star system and have the option to add written feedback.
 
 **Questions**:
-1. Can all users rate products, or only those who have purchased the product?
+1. Can all users rate products or only those who have purchased the product?
 2. Can a user rate the same product multiple times?
-3. Will ratings appear instantly, or only after admin approval?
-4. Will there be a character limit for the written feedback (e.g., 200 characters)?
+3. Will ratings appear instantly or only after admin approval?
+4. Will there be a character limit for the written feedback (e.g. 200 characters)?
 
 **Detailed Requirement**:
 
 1. Only users who have purchased the product can submit a rating or review.
 2. Users can rate a product on a scale of 1 to 5 stars and leave a written review.
-3. Users can also leave optional written feedback, with a maximum of 200 characters.
+3. Users can also leave optional written feedback with a maximum of 200 characters.
 4. The system should prevent users from submitting a review with invalid or inappropriate content.
-5. Users can only submit one review per product, but they can edit or delete their own reviews.
+5. Users can only submit one review per product but they can edit or delete their own reviews.
 
 ### **Feature 2: Age Verification for Alcoholic Products**
 
@@ -39,9 +39,9 @@ The webshop has the following basic functionalities:
 
 **Questions**:
 
-1. Does the age verification prompt appear every time when a user navigates to alcoholic products, or only once per session?
-2. What happens if the user enters an invalid or unrealistic age (e.g., 5 years old or 150 years old)?
-3. If a user under 18 tries to purchase alcohol, does the system block them at checkout?
+1. Does the age verification prompt appear every time when a user navigates to alcoholic products or only once per session?
+2. What happens if the user enters an invalid or unrealistic age (e.g. 5 years old or 150 years old)?
+3. If a user under 18 tries to purchase alcohol does the system block them at checkout?
 4. Will the process work identically on both mobile and desktop?
 
 **Detailed Requirement**:
@@ -62,9 +62,9 @@ The webshop has the following basic functionalities:
 **Questions**:
 
 1. What is the exact threshold amount for free shipping?
-2. Is the shipping fee the same for all locations, or does it vary?
+2. Is the shipping fee the same for all locations or does it vary?
 3. Is the free shipping threshold calculated based on the order total before or after discounts are applied?
-4. If multiple shipping options (e.g. standard, express) are available, how is free shipping applied?
+4. If multiple shipping options (e.g. standard, express) are available and how is free shipping applied?
 
 **Detailed Requirement**:
 
